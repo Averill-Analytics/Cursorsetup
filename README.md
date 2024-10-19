@@ -35,7 +35,7 @@ To make the most of Cursor setting up specific rules and documentation reference
 Create a `.cursorrules` file in your project root to customize Cursor's behavior.  This will act similar to a pre-prompt for a regular chat ai model, Cursor will use this as a guide for how to respond to questions and what style and methods to generate code for you in. 
 
 1. Create the file: `.cursorrules` in the root folder of your project
-      Here's  an example of one: 
+      Here's  an example of one: [.cursorrules](https://github.com/Averill-Analytics/Cursorsetup/blob/main/.cursorrules)
 2. Fill out with the details that best fit your project.  For commonly used frameworks you can start with [cursor.directory](https://cursor.directory)
 4. Restart Cursor to apply changes
 
